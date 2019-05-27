@@ -1,7 +1,7 @@
 #CODEKATA BEGINNER SET-1
 
 #Program to check whether a number is positive or negative or zero.
-n=int(input())
+'''n=int(input())
 if n==0:
   print("Zero")
 elif n>0:
@@ -9,7 +9,7 @@ elif n>0:
 elif n<0:
   print("Negative")
 else:
-  print("Invalid Input")
+  print("Invalid Input")'''
   
   
 #Program to check whether a number is odd or even.
