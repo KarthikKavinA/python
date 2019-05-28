@@ -2,5 +2,7 @@
 n=input()
 if n.isalpha():
   print("Alphabet")
-else:
+elif not(n.isalpha()):
   print("No")
+else:
+  print("Invalid Input")
