@@ -3,4 +3,4 @@ n=input()
 if n.isalpha():
   print("Alphabet")
 else:
-  print("Not Alphabet")
+  print("No")
