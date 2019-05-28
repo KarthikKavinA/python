@@ -8,5 +8,7 @@ if y%4==0:
       print("yes")
     else:
       print("no")
-else:
+elif y%4!=0:
   print("no")
+else:
+  print("Invalid Input")
